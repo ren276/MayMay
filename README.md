@@ -1,2 +1,4 @@
 # MayMay
-A community meme application meant for just fun
+
+
+A meme app made for fun with Kotlin
